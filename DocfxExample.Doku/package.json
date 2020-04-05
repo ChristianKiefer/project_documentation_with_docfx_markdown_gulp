@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"name": "doxfxAndMarkdown",
+	"private": true,
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-rename": "1.4.0"
+  }
+}
