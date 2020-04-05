@@ -1,0 +1,438 @@
+id: DocfxExample.Infrastructure
+language: CSharp
+name:
+  Default: DocfxExample.Infrastructure
+qualifiedName:
+  Default: DocfxExample.Infrastructure
+type: Assembly
+modifiers: {}
+items:
+- id: DocfxExample.Infrastructure.SmtpService
+  commentId: N:DocfxExample.Infrastructure.SmtpService
+  language: CSharp
+  name:
+    CSharp: DocfxExample.Infrastructure.SmtpService
+    VB: DocfxExample.Infrastructure.SmtpService
+  nameWithType:
+    CSharp: DocfxExample.Infrastructure.SmtpService
+    VB: DocfxExample.Infrastructure.SmtpService
+  qualifiedName:
+    CSharp: DocfxExample.Infrastructure.SmtpService
+    VB: DocfxExample.Infrastructure.SmtpService
+  type: Namespace
+  assemblies:
+  - DocfxExample.Infrastructure
+  modifiers: {}
+  items:
+  - id: DocfxExample.Infrastructure.SmtpService.SmtpService
+    commentId: T:DocfxExample.Infrastructure.SmtpService.SmtpService
+    language: CSharp
+    name:
+      CSharp: SmtpService
+      VB: SmtpService
+    nameWithType:
+      CSharp: SmtpService
+      VB: SmtpService
+    qualifiedName:
+      CSharp: DocfxExample.Infrastructure.SmtpService.SmtpService
+      VB: DocfxExample.Infrastructure.SmtpService.SmtpService
+    type: Class
+    assemblies:
+    - DocfxExample.Infrastructure
+    namespace: DocfxExample.Infrastructure.SmtpService
+    source:
+      id: SmtpService
+      path: D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\SmtpService\SmtpService.cs
+      startLine: 8
+    summary: "\nBeispiel Beschreibung\n"
+    example: []
+    syntax:
+      content:
+        CSharp: public class SmtpService
+        VB: Public Class SmtpService
+    inheritance:
+    - System.Object
+    inheritedMembers:
+    - System.Object.Equals(System.Object)
+    - System.Object.Equals(System.Object,System.Object)
+    - System.Object.GetHashCode
+    - System.Object.GetType
+    - System.Object.MemberwiseClone
+    - System.Object.ReferenceEquals(System.Object,System.Object)
+    - System.Object.ToString
+    modifiers:
+      CSharp:
+      - public
+      - class
+      VB:
+      - Public
+      - Class
+    items:
+    - id: DocfxExample.Infrastructure.SmtpService.SmtpService.test
+      commentId: M:DocfxExample.Infrastructure.SmtpService.SmtpService.test
+      language: CSharp
+      name:
+        CSharp: test()
+        VB: test()
+      nameWithType:
+        CSharp: SmtpService.test()
+        VB: SmtpService.test()
+      qualifiedName:
+        CSharp: DocfxExample.Infrastructure.SmtpService.SmtpService.test()
+        VB: DocfxExample.Infrastructure.SmtpService.SmtpService.test()
+      type: Method
+      assemblies:
+      - DocfxExample.Infrastructure
+      namespace: DocfxExample.Infrastructure.SmtpService
+      source:
+        id: test
+        path: D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\SmtpService\SmtpService.cs
+        startLine: 13
+      summary: "\nBeispiel Beschreibung\n"
+      example: []
+      syntax:
+        content:
+          CSharp: public void test()
+          VB: Public Sub test
+      overload: DocfxExample.Infrastructure.SmtpService.SmtpService.test*
+      modifiers:
+        CSharp:
+        - public
+        VB:
+        - Public
+references:
+  System:
+    name:
+      CSharp:
+      - name: System
+        nameWithType: System
+        qualifiedName: System
+        isExternal: true
+      VB:
+      - name: System
+        nameWithType: System
+        qualifiedName: System
+    isDefinition: true
+    commentId: N:System
+  System.Object:
+    name:
+      CSharp:
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      VB:
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+    isDefinition: true
+    parent: System
+    commentId: T:System.Object
+  System.Object.Equals(System.Object):
+    name:
+      CSharp:
+      - id: System.Object.Equals(System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.Equals(System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.Equals(System.Object)
+  System.Object.Equals(System.Object,System.Object):
+    name:
+      CSharp:
+      - id: System.Object.Equals(System.Object,System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.Equals(System.Object,System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.Equals(System.Object,System.Object)
+  System.Object.GetHashCode:
+    name:
+      CSharp:
+      - id: System.Object.GetHashCode
+        name: GetHashCode
+        nameWithType: Object.GetHashCode
+        qualifiedName: System.Object.GetHashCode
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.GetHashCode
+        name: GetHashCode
+        nameWithType: Object.GetHashCode
+        qualifiedName: System.Object.GetHashCode
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.GetHashCode
+  System.Object.GetType:
+    name:
+      CSharp:
+      - id: System.Object.GetType
+        name: GetType
+        nameWithType: Object.GetType
+        qualifiedName: System.Object.GetType
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.GetType
+        name: GetType
+        nameWithType: Object.GetType
+        qualifiedName: System.Object.GetType
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.GetType
+  System.Object.MemberwiseClone:
+    name:
+      CSharp:
+      - id: System.Object.MemberwiseClone
+        name: MemberwiseClone
+        nameWithType: Object.MemberwiseClone
+        qualifiedName: System.Object.MemberwiseClone
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.MemberwiseClone
+        name: MemberwiseClone
+        nameWithType: Object.MemberwiseClone
+        qualifiedName: System.Object.MemberwiseClone
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.MemberwiseClone
+  System.Object.ReferenceEquals(System.Object,System.Object):
+    name:
+      CSharp:
+      - id: System.Object.ReferenceEquals(System.Object,System.Object)
+        name: ReferenceEquals
+        nameWithType: Object.ReferenceEquals
+        qualifiedName: System.Object.ReferenceEquals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.ReferenceEquals(System.Object,System.Object)
+        name: ReferenceEquals
+        nameWithType: Object.ReferenceEquals
+        qualifiedName: System.Object.ReferenceEquals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  System.Object.ToString:
+    name:
+      CSharp:
+      - id: System.Object.ToString
+        name: ToString
+        nameWithType: Object.ToString
+        qualifiedName: System.Object.ToString
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.ToString
+        name: ToString
+        nameWithType: Object.ToString
+        qualifiedName: System.Object.ToString
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.ToString
+  DocfxExample.Infrastructure.SmtpService.SmtpService.test*:
+    name:
+      CSharp:
+      - id: DocfxExample.Infrastructure.SmtpService.SmtpService.test*
+        name: test
+        nameWithType: SmtpService.test
+        qualifiedName: DocfxExample.Infrastructure.SmtpService.SmtpService.test
+      VB:
+      - id: DocfxExample.Infrastructure.SmtpService.SmtpService.test*
+        name: test
+        nameWithType: SmtpService.test
+        qualifiedName: DocfxExample.Infrastructure.SmtpService.SmtpService.test
+    isDefinition: true
+    commentId: Overload:DocfxExample.Infrastructure.SmtpService.SmtpService.test
+  DocfxExample.Infrastructure.SmtpService.SmtpService:
+    name:
+      CSharp:
+      - id: DocfxExample.Infrastructure.SmtpService.SmtpService
+        name: SmtpService
+        nameWithType: SmtpService
+        qualifiedName: DocfxExample.Infrastructure.SmtpService.SmtpService
+      VB:
+      - id: DocfxExample.Infrastructure.SmtpService.SmtpService
+        name: SmtpService
+        nameWithType: SmtpService
+        qualifiedName: DocfxExample.Infrastructure.SmtpService.SmtpService
+    isDefinition: true
+    commentId: T:DocfxExample.Infrastructure.SmtpService.SmtpService
+  DocfxExample.Infrastructure.SmtpService:
+    name:
+      CSharp:
+      - name: DocfxExample.Infrastructure.SmtpService
+        nameWithType: DocfxExample.Infrastructure.SmtpService
+        qualifiedName: DocfxExample.Infrastructure.SmtpService
+      VB:
+      - name: DocfxExample.Infrastructure.SmtpService
+        nameWithType: DocfxExample.Infrastructure.SmtpService
+        qualifiedName: DocfxExample.Infrastructure.SmtpService
+    isDefinition: true
+    commentId: N:DocfxExample.Infrastructure.SmtpService

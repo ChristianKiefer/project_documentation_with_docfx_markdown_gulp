@@ -1,0 +1,16 @@
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\bin\Debug\netstandard2.0\DocfxExample.Infrastructure.deps.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\bin\Debug\netstandard2.0\DocfxExample.Infrastructure.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\bin\Debug\netstandard2.0\DocfxExample.Infrastructure.pdb
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.csprojAssemblyReference.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.AssemblyInfoInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.AssemblyInfo.cs
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\bin\Debug\netstandard2.0\DocfxExample.Infrastructure.deps.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\bin\Debug\netstandard2.0\DocfxExample.Infrastructure.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\bin\Debug\netstandard2.0\DocfxExample.Infrastructure.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.AssemblyInfoInputs.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.AssemblyInfo.cs
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Infrastructure\obj\Debug\netstandard2.0\DocfxExample.Infrastructure.pdb
