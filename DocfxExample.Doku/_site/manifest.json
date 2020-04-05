@@ -1,0 +1,272 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/Daten II/Artikel/2020_01 Docfx/DocfxExample/DocfxExample.Doku",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "Readme.html",
+          "hash": "dMofiHrZPoOswE6a88WoGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "t+GWw02DsY6g2ybX4M/ryg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "XkrBCLgjrrhUVHG27PiOPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "J78dZG9vELd7fdMMLEwF/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.Infrastructure.SmtpService.SmtpService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.Infrastructure.SmtpService.SmtpService.html",
+          "hash": "CgEiaiENSqlm7fDalFX3FQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.Infrastructure.SmtpService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.Infrastructure.SmtpService.html",
+          "hash": "2kc6pqIdbu0IUFq1WjrdXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.RazorPages.Pages.ErrorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.RazorPages.Pages.ErrorModel.html",
+          "hash": "NPCVu/LHvYNa8txXdRb7Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.RazorPages.Pages.IndexModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.RazorPages.Pages.IndexModel.html",
+          "hash": "AOcz0VUP0DVQRGAiRsGdtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.RazorPages.Pages.PrivacyModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.RazorPages.Pages.PrivacyModel.html",
+          "hash": "od/cWg3BGdSf/aXjGg+Taw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.RazorPages.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.RazorPages.Pages.html",
+          "hash": "j+m22ova5lWuGlY18/xcug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.RazorPages.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.RazorPages.Program.html",
+          "hash": "7G07JlKYZlY0P7WFV6mjlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.RazorPages.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.RazorPages.Startup.html",
+          "hash": "wIiewUKO8azqD3wrWPYmhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.RazorPages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.RazorPages.html",
+          "hash": "sPlAFWWupr8iK6Yed5GsPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.SqlServer.Configurations.Configurations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.SqlServer.Configurations.Configurations.html",
+          "hash": "OeRqZQKhP3muCDW8va0F0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/DocfxExample.SqlServer.Configurations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocfxExample.SqlServer.Configurations.html",
+          "hash": "vSGJr2e1k3qVVrgAIFuB1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "oOBbdlJPzhKclmC5SyShLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "G2AoE5T/2VarbHvzLEo4TQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 11,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
