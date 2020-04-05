@@ -1,0 +1,26 @@
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.deps.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.runtimeconfig.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.runtimeconfig.dev.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.pdb
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.csprojAssemblyReference.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.csproj.CoreCompileInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.AssemblyInfoInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.AssemblyInfo.cs
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.deps.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.runtimeconfig.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.runtimeconfig.dev.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\bin\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.AssemblyInfoInputs.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.AssemblyInfo.cs
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.InfrastructureTests\obj\Debug\netcoreapp2.2\DocfxExample.InfrastructureTests.pdb
