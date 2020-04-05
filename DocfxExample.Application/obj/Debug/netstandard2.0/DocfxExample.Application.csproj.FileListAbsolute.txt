@@ -1,0 +1,17 @@
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\bin\Debug\netstandard2.0\DocfxExample.Application.deps.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\bin\Debug\netstandard2.0\DocfxExample.Application.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\bin\Debug\netstandard2.0\DocfxExample.Application.pdb
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.csprojAssemblyReference.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.csproj.CoreCompileInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.AssemblyInfoInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.AssemblyInfo.cs
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\bin\Debug\netstandard2.0\DocfxExample.Application.deps.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\bin\Debug\netstandard2.0\DocfxExample.Application.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\bin\Debug\netstandard2.0\DocfxExample.Application.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.csprojAssemblyReference.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.AssemblyInfoInputs.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.AssemblyInfo.cs
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Application\obj\Debug\netstandard2.0\DocfxExample.Application.pdb

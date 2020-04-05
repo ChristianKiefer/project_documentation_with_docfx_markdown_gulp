@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aC4fx9fgf75MlqiPoktb5aH4fu8f/3RYNQ0xU+Qo3rfIDiFMFzz8Q4TEV8g0x6imkWt0FpJ/kg/ZnQJSsvtNvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Daten II\\Artikel\\2020_01 Docfx\\DocfxExample\\DocfxExample.Application\\DocfxExample.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
