@@ -1,0 +1,27 @@
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.deps.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.runtimeconfig.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.runtimeconfig.dev.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.pdb
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.csprojAssemblyReference.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.csproj.CoreCompileInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.AssemblyInfoInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.AssemblyInfo.cs
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.deps.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.runtimeconfig.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.runtimeconfig.dev.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\bin\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.csprojAssemblyReference.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.AssemblyInfoInputs.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.AssemblyInfo.cs
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.ApplicationTests\obj\Debug\netcoreapp2.2\DocfxExample.ApplicationTests.pdb

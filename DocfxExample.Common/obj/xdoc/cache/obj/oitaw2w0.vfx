@@ -1,0 +1,10 @@
+id: DocfxExample.Common
+language: CSharp
+name:
+  Default: DocfxExample.Common
+qualifiedName:
+  Default: DocfxExample.Common
+type: Assembly
+modifiers: {}
+items: []
+references: {}

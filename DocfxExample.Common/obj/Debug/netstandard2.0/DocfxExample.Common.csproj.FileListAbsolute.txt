@@ -1,0 +1,16 @@
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\bin\Debug\netstandard2.0\DocfxExample.Common.deps.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\bin\Debug\netstandard2.0\DocfxExample.Common.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\bin\Debug\netstandard2.0\DocfxExample.Common.pdb
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.csproj.CoreCompileInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.AssemblyInfoInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.AssemblyInfo.cs
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.pdb
+C:\_test\docfx-example\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.csprojAssemblyReference.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Common\bin\Debug\netstandard2.0\DocfxExample.Common.deps.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Common\bin\Debug\netstandard2.0\DocfxExample.Common.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Common\bin\Debug\netstandard2.0\DocfxExample.Common.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.AssemblyInfoInputs.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.AssemblyInfo.cs
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Common\obj\Debug\netstandard2.0\DocfxExample.Common.pdb
