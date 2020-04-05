@@ -1,0 +1,16 @@
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\bin\Debug\netstandard2.0\DocfxExample.Domain.deps.json
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\bin\Debug\netstandard2.0\DocfxExample.Domain.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\bin\Debug\netstandard2.0\DocfxExample.Domain.pdb
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.csprojAssemblyReference.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.csproj.CoreCompileInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.AssemblyInfoInputs.cache
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.AssemblyInfo.cs
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.dll
+C:\_test\docfx-example\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Domain\bin\Debug\netstandard2.0\DocfxExample.Domain.deps.json
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Domain\bin\Debug\netstandard2.0\DocfxExample.Domain.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Domain\bin\Debug\netstandard2.0\DocfxExample.Domain.pdb
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.AssemblyInfoInputs.cache
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.AssemblyInfo.cs
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.dll
+D:\Daten II\Artikel\2020_01 Docfx\DocfxExample\DocfxExample.Domain\obj\Debug\netstandard2.0\DocfxExample.Domain.pdb
